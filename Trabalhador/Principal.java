@@ -7,5 +7,6 @@ public class Principal {
         Trabalhador arnaldo = new Trabalhador("camisas", 100);
         severino.start();
         raimundo.start();
+        arnaldo.start():
         }
 }
